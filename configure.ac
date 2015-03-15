@@ -145,6 +145,9 @@ echo "------------------------------------------------------------------------"
 echo
 echo "Configuration Options Summary:"
 echo
+echo "Image Loaders:"
+echo "  X.......................: $have_x"
+echo
 echo "Use X86 MMX for speed.....: $mmx"
 echo "Use AMD64 for speed.......: $amd64"
 echo
