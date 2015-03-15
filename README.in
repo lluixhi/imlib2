@@ -11,10 +11,8 @@ This is a complete rewrite over the Imlib 1.x series. The architecture is
 more modular, simple, and flexible. See index.html in the doc/ directory
 for more information.
 
-Imlib2 requires several libraries to be already installed. These are:
+Imlib2 requires FreeType!
 
-libjpeg          http://www.ijg.org/
-libpng           http://www.libpng.org/pub/png/libpng.html
 freetype 2.1.x   http://www.freetype.org/
 
 For examples of this library in use, seek:
